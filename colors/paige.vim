@@ -55,7 +55,7 @@ endfunction
 
 " Types -> [ ctermbg, ctermfg, cterm, guibg, guifg, gui ]
 let s:default_text            = [ '231', '232',          '', '#f9f9f9', '#000000',          '' ]
-let s:default_text_bold       = [ '231', '232',      'bold', '#f9f9f9', '#9e0000',      'none' ]
+let s:default_text_bold       = [ '231', '232',      'bold', '#f9f9f9', '#007068',      'none' ]
 let s:default_text_italic     = [ '231', '232',    'italic', '#f9f9f9', '#000000',    'italic' ]
 let s:default_text_underline  = [ '231', '232', 'underline', '#f9f9f9', '#000000', 'underline' ]
 
@@ -64,7 +64,7 @@ let s:alt_fg_text_none        = [ '231', '245',      'none', '#f9f9f9', '#8a8a8a
 let s:alt_fg_text_2           = [ '231', '248',          '', '#f9f9f9', '#707070',          '' ]
 
 let s:alt_bg_text             = [ '254', '232',          '', '#eaeaea', '#000000',          '' ]
-let s:alt_bg_text_bold        = [ '254', '232',      'bold', '#eaeaea', '#9e0000',      'none' ]
+let s:alt_bg_text_bold        = [ '254', '232',      'bold', '#eaeaea', '#007068',      'none' ]
 let s:alt_bg_text_italic      = [ '254', '232',    'italic', '#eaeaea', '#000000',    'italic' ]
 let s:alt_bg_text_underline   = [ '254', '232', 'underline', '#eaeaea', '#000000', 'underline' ]
 let s:alt_bg_text_no_override = [ '254',    '',      'none', '#eaeaea',        '',      'none' ]
@@ -72,7 +72,7 @@ let s:alt_bg_text_none        = [ '254', '232',      'none', '#eaeaea', '#000000
 let s:alt_bg_no_fg            = [ '254', '254',      'none', '#eaeaea', '#eaeaea',      'none' ]
 
 let s:green_bg_text           = [ '148', '232',          '', '#afd700', '#000000',          '' ]
-let s:red_bg_text             = [ '197', '232',          '', '#ff005f', '#000000',          '' ]
+let s:red_bg_text             = [ '197', '232',          '', '#ff8eb6', '#000000',          '' ]
 let s:yellow_bg_text          = [ '220', '232',          '', '#ffd700', '#000000',          '' ]
 let s:blue_bg_text            = [  '39', '232',          '', '#87dbff', '#000000',          '' ]
 let s:purple_bg_text_none     = [ '141', '232',      'none', '#c6aaff', '#000000',      'none' ]
